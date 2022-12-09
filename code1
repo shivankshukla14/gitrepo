@@ -2,7 +2,11 @@ this is code1
 this is code2
 this is code3
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd line
 =======
 changes from branch1
 >>>>>>> branch1
+=======
+this is code4
+>>>>>>> a49ebad63d90a47ce33dbcbf8a14a2478dab407d
